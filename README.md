@@ -26,5 +26,5 @@ peerjs --port 3001
 
 ## _App Preview :_
 
-
+![alt-text](https://github.com/abhishekkulkarnni/EJS_Socket_Video-Chat-App/blob/main/preview/App%20Preview-min.gif)
 
